@@ -1,10 +1,12 @@
 .header {
   height: 5rem;
   width: 100%;
-  background-color: burlywood;
+  /* background-color: rgb(72, 18, 2); */
+  background-color: rgb(48, 38, 39);
   position: fixed;
   top: 0;
   left: 0;
+  color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
